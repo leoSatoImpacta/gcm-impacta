@@ -6,6 +6,10 @@
 
 ## Filmes preferidos do Paulo
 
+* Laranja Mecânica
+* O Corvo
+* O Poderoso Chefão
+
 ## Filmes preferidos do Guilherme
 
 ## Filmes preferidos do Robson

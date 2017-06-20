@@ -18,10 +18,11 @@
 * Velozes e furiosos 7
 * Velozes e furiosos 6
 
-## Filmes preferidos do Rodrigo
+## Filmes preferidos do sonoftruemetal (Rodrigo)
 
-* Matrix
-* Tropa de Elite
-* O Poderoso Chefão
+* 300
+* De Volta ao Jogo
+* O Poderoso Chefão 2
+* Star Wars
 
 ## Filmes preferidos do André

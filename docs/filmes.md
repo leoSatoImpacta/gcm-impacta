@@ -16,4 +16,8 @@
 
 ## Filmes preferidos do Rodrigo
 
+* Matrix
+* Tropa de Elite
+* O Poderoso Chefão
+
 ## Filmes preferidos do André

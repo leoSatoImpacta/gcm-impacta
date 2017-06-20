@@ -1,9 +1,9 @@
 # Releases
 
-## Versão 1 Cookie
+## Versão 1
 
-* Bom demais
+* Lista de filmes favoritos de cada integrante adicionada.
 
-## Versão 1.1 Bolacha
+## Versão 1.1
 
-* Ok
+* Lista de músicas favoritas de cada integrante adicionada.

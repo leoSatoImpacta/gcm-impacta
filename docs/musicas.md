@@ -4,6 +4,8 @@
 
 * Tchutchucão
 * Ciranda cirandinha
+* Música da Copa
+* Música de elevador
 
 ## Paulo
 

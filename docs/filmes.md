@@ -15,8 +15,8 @@
 ## Filmes preferidos do Robson
 
 * Velozes e furiosos 8
-* Velozes e furiosos 7
-* Velozes e furiosos 6
+* Velozes e furiosos 3
+* Velozes e furiosos 1
 
 ## Filmes preferidos do Rodrigo
 

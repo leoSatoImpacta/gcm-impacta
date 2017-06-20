@@ -11,7 +11,12 @@
 
 ## Robson
 
-## Rodrigo
+## Rodrigo (sonoftruemetal)
+
+* Painkiller - Judas Priest
+* Fear of the Dark - Iron Maiden
+* Number One - Manowar
+* Clube dos Canalhas - Matanza
 
 ## Guilherme
 

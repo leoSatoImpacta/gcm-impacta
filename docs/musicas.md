@@ -25,4 +25,9 @@
 
 ## Guilherme
 
+* Moranguinho do Nordeste - Frank Aguiar
+* Lua Vai - Katinguelê
+* Marrom BomBom - Os morenos
+* Ilariê - Xuxa
+
 ## André

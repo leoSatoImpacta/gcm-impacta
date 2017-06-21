@@ -12,6 +12,11 @@
 
 ## Filmes preferidos do Guilherme
 
+* Titanic
+* Lagoa azul
+* Dragão Branco
+* 101 Dalmatas
+
 ## Filmes preferidos do Robson
 
 * Velozes e furiosos 8

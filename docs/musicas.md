@@ -11,6 +11,11 @@
 
 ## Robson
 
+Baile de favela - MC João
+Cheia de Manias - Raça Negra
+Na ponta ela fica - MC Delano
+Eye of the tiger - Survivor
+
 ## Rodrigo (sonoftruemetal)
 
 * Painkiller - Judas Priest

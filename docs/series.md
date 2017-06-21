@@ -30,10 +30,10 @@
 
 ## Paulo
 
-* Serie A
-* Serie B
-* Serie C
-* Serie D
+* Breaking Bad
+* Hannibal
+* Pablo Escobar - O Patrão do Mal
+* Narcos
 
 ## Andre
 

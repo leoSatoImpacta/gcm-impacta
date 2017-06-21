@@ -23,10 +23,10 @@
 
 ## Rodrigo
 
-* Serie A
-* Serie B
-* Serie C
-* Serie D
+* Narcos
+* Lost
+* Breaking Bad
+* Black Mirror
 
 ## Paulo
 

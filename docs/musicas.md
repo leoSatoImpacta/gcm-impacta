@@ -9,6 +9,11 @@
 
 ## Paulo
 
+* Éguinha Pocotó – MC Serginho
+* Restart – Recomeçar
+* Musa do Verão - Felipe Dylon
+* Loira do Tchan - É o Tchan
+
 ## Robson
 
 * Baile de favela - MC João

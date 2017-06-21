@@ -15,4 +15,9 @@
 
 ## Paulo
 
+* God of War 2
+* Assassins Creed IV
+* FIFA 17
+* Resident Evil 5
+
 ## Andre

@@ -16,10 +16,10 @@
 
 ## Robson
 
-* Serie A
-* Serie B
-* Serie C
-* Serie D
+* The Walking dead
+* Dr House
+* Super Maquina
+* CSI
 
 ## Rodrigo
 

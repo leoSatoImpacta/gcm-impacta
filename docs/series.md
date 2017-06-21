@@ -9,10 +9,10 @@
 
 ## Guilherme
 
-* Serie A
-* Serie B
-* Serie C
-* Serie D
+* Todo mundo odeia o Chris
+* Um maluco no pedaço
+* Eu a patroa e as crianças
+* Familia dinossalro
 
 ## Robson
 

@@ -9,6 +9,11 @@
 
 ## Guilherme
 
+* Pac Man 
+* Asteroids
+* Pong
+* Megamania
+
 ## Robson
 
 ## Rodrigo

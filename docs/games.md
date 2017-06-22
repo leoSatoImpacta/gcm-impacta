@@ -18,6 +18,11 @@
 
 ## Rodrigo
 
+* Far Cry 3
+* Gears of War
+* God of War
+* Sniper: Elite
+
 ## Paulo
 
 * God of War 2
